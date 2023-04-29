@@ -20,5 +20,5 @@
 
 ## 其他相关文章
 
-1. [什么是信息熵？](https://www.toutiao.com/a6749853189400429060/)
+1. [信息熵是什么？](https://www.zhihu.com/question/22178202/answer/49929786)
 
